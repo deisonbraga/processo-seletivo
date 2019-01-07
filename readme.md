@@ -2,9 +2,9 @@
 
 **Vaga:** WebDesigner
 
-Gostaria de agradecer a oportunidade impar de participar desse processo seletivo, final de semana aconteceu alguns imprevisto pessoais, por conta disso não consegue me dedicar como gostaria ao projeto.
+Gostaria de agradecer a oportunidade impar de participar desse processo seletivo, final de semana aconteceu alguns imprevisto pessoais, por conta disso não consegue me dedicar como gostaria ao projeto. apesar espero ter atendido as expectativas e fico no aguardo.
 
-## Tecnologia Usadas
+## Tecnologias
 
 CSS: 
 
@@ -14,8 +14,9 @@ JS:
  - Jquery 3.3.1
 
 ## Cores
-$azul-escuro : #0c2461
-$azul : #1e3799;
-$azul-claro : #4a69bd;
+
+ - $azul-escuro : #0c2461 
+ - $azul : #1e3799 
+ - $azul-claro : #4a69bd
 
 Opei por cores de tonalidade azuis visando passar ao cliente mais seriedade da organização.
